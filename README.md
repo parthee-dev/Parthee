@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Full-Stack Developer | Java Spring Boot & Modern Web</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="profile views" />
-</p>
+<img src="https://your-image-url.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="profile picture" />
+
+# Hi 👋, I'm Your Name
+### Full-Stack Developer | Java Spring Boot & Modern Web
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="profile views" />
+
+</div>
 
 - 🔭 Currently building **full-stack apps with Spring Boot + REST APIs**
 - 💻 Frontend: **HTML5, CSS3, JavaScript**
